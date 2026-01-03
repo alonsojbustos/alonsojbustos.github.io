@@ -28,7 +28,7 @@ author:
   pronouns         : # example: ""  
   bio              : "Mathematical Civil Engineer"
   location         : "Chile"
-  employer         : ""
+  employer         : #""
   uri              : # URL
   email            : "albustos2020@udec.cl" 
 
