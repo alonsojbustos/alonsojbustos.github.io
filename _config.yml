@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me-cropped.png"
+  avatar           : "me-cropped.JPG"
   name             : "Alonso J. Bustos"
   pronouns         : # example: ""  
   bio              : "Mathematical Civil Engineer"
