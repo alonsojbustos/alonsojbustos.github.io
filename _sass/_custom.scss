@@ -9,3 +9,34 @@
     hyphens: auto;
   }
 }
+
+/* Minimal publications list */
+.pub-item { margin: 0 0 1.2em 0; }
+
+.pub-title {
+  font-weight: 600;
+  line-height: 1.25;
+  font-size: 1.1rem;
+}
+
+.pub-title a { text-decoration: none; }
+.pub-title a:hover { text-decoration: underline; }
+
+.pub-citation {
+  margin-top: 0.35em;
+  color: var(--global-text-color-light);
+  line-height: 1.35;
+  font-size: 0.95rem;
+}
+
+.pub-button {
+  display: inline-block;
+  margin-top: 0.5em;
+  padding: 0.25em 0.6em;
+  border: 1px solid var(--global-border-color);
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.pub-button:hover { text-decoration: none; }
