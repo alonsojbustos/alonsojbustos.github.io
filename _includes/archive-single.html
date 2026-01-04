@@ -17,12 +17,20 @@
         {% if post.collection == 'publications' %}
       <div class="pub-item">
         <div class="pub-title">
+        <span class="pub-title-text">
           {% if post.paperurl %}
             <a href="{{ post.paperurl }}">{{ title }}</a>
           {% else %}
             <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
           {% endif %}
-        </div>
+        </span>
+      
+        {% if post.date %}
+          <span class="pub-year">
+            {{ post.date | date: "%Y" }}
+          </span>
+        {% endif %}
+      </div>
 
         {% if post.citation %}
           <div class="pub-citation">{{ post.citation }}</div>
