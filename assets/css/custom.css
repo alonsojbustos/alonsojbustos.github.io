@@ -1,7 +1,7 @@
 /* Smaller font ONLY on the index pages */
 .publications-index .archive__item,
 .talks-index .archive__item {
-  font-size: 0.5em;
+  font-size: 0.1em;
 }
 
 @media (min-width: 768px) {
