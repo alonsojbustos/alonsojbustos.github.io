@@ -4,7 +4,9 @@
 }
 
 /* Justify main content text */
-.page__content p {
-  text-align: justify;
-  hyphens: auto;
+@media (min-width: 768px) {
+  .page__content p {
+    text-align: justify;
+    hyphens: auto;
+  }
 }
