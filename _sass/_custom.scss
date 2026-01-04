@@ -1,0 +1,16 @@
+/* Smaller font for Publications and Talks list entries */
+.layout--archive .archive__item {
+  font-size: 0.5em !important;
+}
+
+/* Justify written content on desktop */
+@media (min-width: 768px) {
+  .page__content p,
+  .page__content li,
+  .page__content blockquote,
+  .page__content dd,
+  .page__content dt {
+    text-align: justify !important;
+    hyphens: auto;
+  }
+}
