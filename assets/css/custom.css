@@ -1,26 +1,16 @@
-/* Smaller font ONLY on the Publications and Talks index pages */
-.page__url-publications .page__content .archive__item,
-.page__url-talks .page__content .archive__item {
+/* Smaller font ONLY on the index pages */
+.publications-index .archive__item,
+.talks-index .archive__item {
   font-size: 0.5em;
 }
 
-/* Justify most text content (desktop only) */
 @media (min-width: 768px) {
-  .page__content {
-    text-align: justify;
+  .page__content p,
+  .page__content li,
+  .page__content blockquote,
+  .page__content dd,
+  .page__content dt {
+    text-align: justify !important;
     hyphens: auto;
-  }
-
-  /* Keep headings and navigation left-aligned for readability */
-  .page__content h1,
-  .page__content h2,
-  .page__content h3,
-  .page__content h4,
-  .page__content h5,
-  .page__content h6,
-  .page__content nav,
-  .page__content .toc {
-    text-align: left;
-    hyphens: none;
   }
 }
