@@ -2,3 +2,9 @@
 .page__content .archive__item {
   font-size: 0.5em;
 }
+
+/* Justify main content text */
+.page__content p {
+  text-align: justify;
+  hyphens: auto;
+}
