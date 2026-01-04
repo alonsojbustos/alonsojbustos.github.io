@@ -40,3 +40,17 @@
 }
 
 .pub-button:hover { text-decoration: none; }
+
+/* Publication title + year */
+.pub-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.75em;
+}
+
+.pub-year {
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+  white-space: nowrap;
+}
