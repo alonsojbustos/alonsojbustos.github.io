@@ -1,7 +1,8 @@
-/* Smaller font on Publications and Talks LIST pages */
-.layout--archive .archive__item-title,
-.layout--archive .archive__item-excerpt,
-.layout--archive .page__meta {
+/* Force smaller font on listing pages (Publications/Talks lists) */
+.layout--archive .archive__item,
+.layout--archive .archive__item * ,
+.layout--archive .list__item,
+.layout--archive .list__item * {
   font-size: 0.5em !important;
 }
 
