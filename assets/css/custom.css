@@ -1,17 +1,1 @@
-/* Smaller font on Publications and Talks LIST pages */
-.layout--archive .archive__item-title,
-.layout--archive .archive__item-excerpt,
-.layout--archive .page__meta {
-  font-size: 0.5em !important;
-}
 
-@media (min-width: 768px) {
-  .page__content p,
-  .page__content li,
-  .page__content blockquote,
-  .page__content dd,
-  .page__content dt {
-    text-align: justify !important;
-    hyphens: auto;
-  }
-}
