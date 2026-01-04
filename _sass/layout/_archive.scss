@@ -55,7 +55,7 @@
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
-    font-size: 0.8em;
+    font-size: 1.1em;
   }
 }
 
@@ -148,7 +148,7 @@
 
     .archive__item-excerpt {
       display: block;
-      font-size: $type-size-6;
+      font-size: 0.8em;
     }
   }
 }
@@ -166,7 +166,7 @@
 
 .feature__item {
   margin-bottom: 2em;
-  font-size: 1.25rem;
+  font-size: 0.8rem;
 
   @include breakpoint($small) {
     margin-bottom: 0;
