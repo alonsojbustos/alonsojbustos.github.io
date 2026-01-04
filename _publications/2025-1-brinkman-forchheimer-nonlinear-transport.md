@@ -3,7 +3,6 @@ title: "New Fully Mixed Finite Element Methods for the Coupled Convective Brinkm
 collection: publications
 category: manuscripts
 permalink: /publication/fully-mixed-brinkman-forchheimer
-excerpt: ""
 date: 2025-01-01
 venue: "Journal of Scientific Computing"
 paperurl: "https://link.springer.com/article/10.1007/s10915-025-02958-2"
