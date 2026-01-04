@@ -15,8 +15,8 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Banach Space Mixed Formulations for the Convection-Diffusion-Reaction System Based upon Brinkman\u2013Forchheimer Equations.<br />Universidad Cat\u00f3lica del Maule, Campus San Miguel, Talca, Chile; Talca, Chile",
+    -35.4265343,
+    -71.6660322
   ]
 ];
