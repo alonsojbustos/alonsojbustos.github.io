@@ -1,0 +1,11 @@
+---
+title: "Mixed-primal and fully-mixed formulations for the convection-diffusion-reaction system based upon Brinkman--Forchheimer equations"
+collection: publications
+category: preprints
+permalink: /publication/mixed-primal-fully-mixed-CDR-BF
+excerpt: "We introduce and analyze new mixed formulations, within Banach spaces-based frameworks, for numerically solving the model given by the coupling of the Brinkman--Forchheimer equations with a convection-diffusion-reaction phenomenon."
+date: 2025-2
+venue: "CI2MA"
+paperurl: "https://www.ci2ma.udec.cl/publicaciones/prepublicaciones/prepublicacion.php?id=579"
+citation: "A. J. Bustos, S. Caucao and G. N. Gatica, <i>Mixed-primal and fully-mixed formulations for the convection-diffusion-reaction system based upon Brinkman--Forchheimer equations</i>. Preprint, Universidad de Concepción (2025). Available at https://ci2ma.udec.cl/pdf/pre-publicaciones2/2025/pp25-13.pdf."
+---
