@@ -3,7 +3,7 @@ title: "A Banach space mixed formulation for the unsteady Brinkman problem with 
 collection: publications
 category: preprints
 permalink: /publication/unsteady-Brinkman
-excerpt: "We propose and analyze a new mixed formulation for the Brinkman equations with spatially varying porosity, modeling the time-dependent flow of an incompressible fluid through heterogeneous porous media."
+excerpt: ""
 date: 2025-01-03
 venue: "CI2MA"
 paperurl: "https://www.ci2ma.udec.cl/publicaciones/prepublicaciones/prepublicacion.php?id=597"
