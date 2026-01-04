@@ -50,7 +50,7 @@
 
 /* remove border*/
 .page__content {
-   font-size:0.8em;
+   
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
@@ -59,7 +59,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: 0.8em;
 
   & + p {
     text-indent: 0;
