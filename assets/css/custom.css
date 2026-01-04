@@ -1,0 +1,4 @@
+/* Smaller font for Publications and Talks entries */
+.page__content .archive__item {
+  font-size: 0.9em;
+}
