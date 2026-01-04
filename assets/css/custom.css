@@ -1,7 +1,8 @@
-/* Smaller font ONLY on the index pages */
-.publications-index .archive__item,
-.talks-index .archive__item {
-  font-size: 0.1em;
+/* Smaller font on Publications and Talks LIST pages */
+.layout--archive .archive__item-title,
+.layout--archive .archive__item-excerpt,
+.layout--archive .page__meta {
+  font-size: 0.5em !important;
 }
 
 @media (min-width: 768px) {
