@@ -1,11 +1,3 @@
-/* Force smaller font on listing pages (Publications/Talks lists) */
-.layout--archive .archive__item,
-.layout--archive .archive__item * ,
-.layout--archive .list__item,
-.layout--archive .list__item * {
-  font-size: 0.5em !important;
-}
-
 /* Justify written content on desktop */
 @media (min-width: 768px) {
   .page__content p,
