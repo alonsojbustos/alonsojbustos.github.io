@@ -1,6 +1,8 @@
-/* Smaller font for Publications and Talks list entries */
-.layout--archive .archive__item {
-  font-size: 0.1em !important;
+/* Smaller font on Publications and Talks LIST pages */
+.layout--archive .archive__item-title,
+.layout--archive .archive__item-excerpt,
+.layout--archive .page__meta {
+  font-size: 0.5em !important;
 }
 
 /* Justify written content on desktop */
