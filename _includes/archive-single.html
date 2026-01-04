@@ -14,6 +14,25 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        {% if post.collection == 'publications' %}
+      <div class="pub-item">
+        <div class="pub-title">
+          {% if post.paperurl %}
+            <a href="{{ post.paperurl }}">{{ title }}</a>
+          {% else %}
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+          {% endif %}
+        </div>
+
+        {% if post.citation %}
+          <div class="pub-citation">{{ post.citation }}</div>
+        {% endif %}
+
+        {% if post.paperurl %}
+          <a class="pub-button" href="{{ post.paperurl }}">Paper</a>
+        {% endif %}
+      </div>
+    {% else %}
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -79,6 +98,6 @@
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
     {% endif %}
-
+    {% endif %}
   </article>
 </div>
