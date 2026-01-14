@@ -6,7 +6,22 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+  </div>
+
+  <div class="wordwrap" style="margin-top: 0.6em;">
+    You can find my undergraduate thesis <a href="https://repositorio.udec.cl/items/bc57f140-1aec-435e-b914-1752e345c409">here</a>.
+    <div style="margin-top: 0.35em;">
+      <span style="color: var(--global-text-color-light);">
+        Recommended citation:
+      </span>
+      <span>
+        <!-- TODO: replace with your real thesis citation -->
+        Alonso J. Bustos. <i>Title of the thesis</i>. Undergraduate thesis, Universidad de Concepción, Year.
+      </span>
+    </div>
+  </div>
 {% endif %}
 
 {% include base_path %}
