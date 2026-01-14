@@ -1,0 +1,33 @@
+{% include base_path %}
+
+{%- assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" -%}
+
+<div class="note-item">
+  <div class="note-title">
+    <span class="note-title-text">
+      {% if post.file %}
+        <a href="{{ post.file }}">{{ title }}</a>
+      {% elsif post.link %}
+        <a href="{{ post.link }}">{{ title }}</a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}">{{ title }}</a>
+      {% endif %}
+    </span>
+
+    {% if post.date %}
+      <span class="note-year">{{ post.date | date: "%Y" }}</span>
+    {% endif %}
+  </div>
+
+  {% if post.description %}
+    <div class="note-description">
+      {{ post.description }}
+    </div>
+  {% endif %}
+
+  {% if post.file %}
+    <a class="note-button" href="{{ post.file }}">PDF</a>
+  {% elsif post.link %}
+    <a class="note-button" href="{{ post.link }}">Link</a>
+  {% endif %}
+</div>
