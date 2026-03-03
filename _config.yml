@@ -12,7 +12,7 @@ site_theme               : "dirt" # The available themes options are "default", 
 title                    : "Alonso J. Bustos"
 title_separator          : "-"
 name                     : &name "Alonso J. Bustos"
-description              : &description "Mathematical Civil Engineer"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Applied mathematics"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://alonsojbustos.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "me-cropped.JPG"
   name             : "Alonso J. Bustos"
   pronouns         : # example: ""  
-  bio              : "Mathematical Civil Engineer"
+  bio              : "Applied mathematics"
   location         : "Chile"
   employer         : #""
   uri              : # URL
@@ -92,6 +92,8 @@ publication_category:
   #  title: 'Conference Papers'
   preprints:
     title: 'Preprints'
+  theses:
+    title: 'Undergraduate thesis'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
