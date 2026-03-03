@@ -27,6 +27,7 @@
   color: var(--global-text-color-light);
   line-height: 1.35;
   font-size: 0.8rem;
+  text-align: justify !important;
 }
 
 .pub-button {
@@ -138,5 +139,5 @@
 .note-button:hover { text-decoration: none; }
 
 .page__content {
-  font-size: 1.5rem;
+  font-size: 0.8rem;
 }
