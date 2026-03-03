@@ -1,5 +1,5 @@
 ---
-title: "A Banach space mixed formulation for the unsteady Brinkman problem with spatially varying porosity. Supervised by Professor Sergio Caucao."
+title: "A Banach space mixed formulation for the unsteady Brinkman problem with spatially varying porosity. Supervised by Professor <a href="https://scaucao.github.io">Sergio Caucao</a>."
 subtitle: "Supervised by Sergio Caucao"
 collection: publications
 category: theses
