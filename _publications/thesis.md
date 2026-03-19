@@ -8,5 +8,5 @@ excerpt: ""
 date: 2025-09-03
 venue: "UdeC"
 paperurl: "https://repositorio.udec.cl/items/bc57f140-1aec-435e-b914-1752e345c409"
-citation: "A. J. Bustos, <i>A Banach space mixed formulation for the unsteady Brinkman problem with spatially varying porosity</i>. Undergraduate thesis, Universidad de Concepción, 2025. Available at https://repositorio.udec.cl/items/bc57f140-1aec-435e-b914-1752e345c409.<br>Supervised by <a href='INSERT_URL_HERE'>Prof. Sergio Caucao</a>."
+citation: "A. J. Bustos, <i>A Banach space mixed formulation for the unsteady Brinkman problem with spatially varying porosity</i>. Undergraduate thesis, Universidad de Concepción, 2025. Available at https://repositorio.udec.cl/items/bc57f140-1aec-435e-b914-1752e345c409.<br>Supervised by <a href='https://scaucao.github.io'>Prof. Sergio Caucao</a>."
 ---
