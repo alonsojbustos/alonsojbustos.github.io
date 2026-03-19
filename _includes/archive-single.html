@@ -35,10 +35,6 @@
         {% if post.citation %}
           <div class="pub-citation">{{ post.citation }}</div>
         {% endif %}
-
-        {% if post.paperurl %}
-          <a class="pub-button" href="{{ post.paperurl }}">Paper</a>
-        {% endif %}
       </div>
     {% else %}
     {% if include.type == "grid" and teaser %}
