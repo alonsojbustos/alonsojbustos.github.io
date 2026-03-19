@@ -30,18 +30,6 @@
   text-align: justify !important;
 }
 
-.pub-button {
-  display: inline-block;
-  margin-top: 0.5em;
-  padding: 0.25em 0.6em;
-  border: 1px solid var(--global-border-color);
-  border-radius: 4px;
-  text-decoration: none;
-  font-size: 0.7rem;
-}
-
-.pub-button:hover { text-decoration: none; }
-
 /* Publication title + year */
 .pub-title {
   display: flex;
