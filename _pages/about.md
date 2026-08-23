@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a mathematics PhD student at George Mason University and am currently pursuing research in the analysis and numerical approximation of partial differential equations.
+I am a mathematics PhD student at George Mason University, where my research focuses on the analysis and numerical approximation of partial differential equations.
 
 My research is motivated by physical models arising in porous media flow, transport phenomena, poroelasticity, and fluid mechanics, where mathematical structure, stability, and approximation properties play a fundamental role. I am particularly interested in time-dependent problems, whose rich analytical structure and broad range of physical applications provide a compelling framework for the study of partial differential equations and numerical analysis. In this sense, coupled multiphysics problems also offer a rich set of models and pose several mathematical challenges.
 
