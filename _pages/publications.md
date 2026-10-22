@@ -11,7 +11,8 @@ author_profile: true
 </div>
 {% endif %}
 
-<!-- Edit the publications below. Each entry consists of a title and its citation. -->
+<!-- Edit publications here. Each ### heading starts a new item. -->
+<div class="compact-publications" markdown="1">
 
 ## Journal Articles
 
@@ -51,3 +52,5 @@ A. J. Bustos and <a href='https://scaucao.github.io'>S. Caucao</a>, <i>A Banach 
 
 A. J. Bustos, <i>A Banach space mixed formulation for the unsteady Brinkman problem with spatially varying porosity</i>. Undergraduate thesis, Universidad de Concepción, 2025. Available at https://repositorio.udec.cl/items/bc57f140-1aec-435e-b914-1752e345c409.<br>Supervised by <a href='https://scaucao.github.io'>Prof. Sergio Caucao</a>.
 
+
+</div>
