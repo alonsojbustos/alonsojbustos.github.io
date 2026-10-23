@@ -157,3 +157,41 @@
   .compact-publications h3 { font-size: 0.9rem; }
   .compact-publications h3 + p { font-size: 0.8rem; }
 }
+
+/* Talks and notes: same compact typographic treatment as publications */
+.talk-item, .note-item {
+  font-size: 0.78rem;
+  line-height: 1.42;
+  padding: 1.05em 0 1.1em;
+  margin: 0;
+  border-top: 1px solid #d0d0d0;
+}
+.talk-item:first-of-type, .note-item:first-of-type { border-top: 0; }
+.talk-title, .note-title {
+  display: block;
+  font-size: 0.88rem;
+  font-weight: 700;
+  line-height: 1.35;
+  margin: 0 0 0.2em;
+}
+.talk-title a, .note-title a { color: inherit; text-decoration: none; }
+.talk-title a:hover, .note-title a:hover { text-decoration: underline; }
+.talk-year, .note-year { font-size: 0.76rem; font-weight: 400; color: #777; margin-left: 0.6em; }
+.talk-venue, .note-description { font-size: 0.76rem; line-height: 1.45; margin: 0.1em 0 0.25em; }
+.talk-button, .note-button {
+  display: inline;
+  border: 0;
+  border-radius: 0;
+  padding: 0;
+  margin: 0;
+  font-size: 0.76rem;
+  color: #1756a9;
+  text-decoration: underline;
+  background: transparent;
+}
+.talk-button:hover, .note-button:hover { text-decoration: underline; }
+@media (max-width: 600px) {
+  .talk-item, .note-item { font-size: 0.82rem; }
+  .talk-title, .note-title { font-size: 0.9rem; }
+  .talk-venue, .note-description, .talk-button, .note-button { font-size: 0.8rem; }
+}
