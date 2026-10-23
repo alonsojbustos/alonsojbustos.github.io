@@ -195,3 +195,12 @@
   .talk-title, .note-title { font-size: 0.9rem; }
   .talk-venue, .note-description, .talk-button, .note-button { font-size: 0.8rem; }
 }
+
+/* Single-file Markdown lists for Talks and Notes */
+.compact-talks, .compact-notes { font-size: 0.78rem; line-height: 1.42; }
+.compact-talks h3, .compact-notes h3 { font-size: 0.88rem; font-weight: 700; line-height: 1.35; margin: 0; padding: 1.05em 0 0.15em; border-top: 1px solid #d0d0d0; }
+.compact-talks h3:first-of-type, .compact-notes h3:first-of-type { border-top: 0; }
+.compact-talks h3 a, .compact-notes h3 a { color: inherit; text-decoration: none; }
+.compact-talks h3 a:hover, .compact-notes h3 a:hover { text-decoration: underline; }
+.compact-talks h3 + p, .compact-notes h3 + p { font-size: 0.76rem; line-height: 1.45; margin: 0 0 1.1em; text-align: left !important; hyphens: none; }
+@media(max-width:600px){.compact-talks h3,.compact-notes h3{font-size:0.9rem}.compact-talks h3 + p,.compact-notes h3 + p{font-size:0.8rem}}
