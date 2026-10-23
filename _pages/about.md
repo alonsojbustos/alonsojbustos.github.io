@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a mathematics PhD student at George Mason University, where I began my PhD in Fall 2026. I work as a research assistant with [Professor Harbir Antil](https://math.gmu.edu/~hantil/index.html) at the [Center for Mathematics and Artificial Intelligence](https://cmai.gmu.edu). My research focuses on the analysis and numerical approximation of partial differential equations, with emphasis on finite element methods.
+I am a mathematics PhD student at George Mason University, where I began my studies in Fall 2026. I work as a research assistant with [Professor Harbir Antil](https://math.gmu.edu/~hantil/index.html) at the [Center for Mathematics and Artificial Intelligence](https://cmai.gmu.edu). My research focuses on the analysis and numerical approximation of partial differential equations, with emphasis on finite element methods.
 
 I am particularly interested in developing mathematical tools, drawing on functional analysis, convex analysis, and optimization, to design and analyze numerical methods for partial differential equations. My current research explores the interplay between convex duality and finite element methods, particularly in the development of *a posteriori* error estimates, as well as the analysis and discretization of parabolic problems.
 
