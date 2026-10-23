@@ -7,6 +7,9 @@ author_profile: true
 
 {% if site.author.googlescholar %}
 <div class="wordwrap scholar-message">
+
+  I would like to express my sincere gratitude to my collaborators, whose guidance, generosity, and mathematical insight have been fundamental to my development as a researcher: [Harbir Antil](https://math.gmu.edu/~hantil/index.html), [Sean P. Carney](https://www.math.union.edu/~carneys/), [Sergio Caucao](https://scaucao.github.io), [Gabriel N. Gatica](https://www.ci2ma.udec.cl/ggatica/index-english.html), [Jeonghun Lee](https://math.artsandsciences.baylor.edu/person/jeonghun-john-lee-phd), [Ricardo Ruiz-Baier](https://ruizbaier.github.io), and my friend [Benjamín Venegas](https://benjamin-venegas.github.io).
+  
   You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
 </div>
 {% endif %}
