@@ -21,11 +21,11 @@ You can also find my articles on <a href="{{ site.author.googlescholar }}">my Go
 
 ## Journal Articles
 
-### [A posteriori error analysis of two mixed formulations for a coupled Brinkman--Forchheimer and convection-diffusion-reaction system](https://www.ci2ma.udec.cl/publicaciones/prepublicaciones/prepublicacionen.php?id=620)
+### [A posteriori error analysis of two mixed formulations for a coupled Brinkman--Forchheimer and convection-diffusion-reaction system](https://doi.org/10.1016/j.cam.2026.118277)
 
 A. J. Bustos and <a href='https://scaucao.github.io'>S. Caucao</a>, <i>A posteriori error analysis of two mixed formulations for a coupled Brinkman--Forchheimer and convection-diffusion-reaction system</i>. Journal of Computational and Applied Mathematics, accepted for publication.
 
-### [A perturbed threefold saddle-point formulation yielding new mixed finite element methods for poroelasticity with reduced symmetry](https://www.ci2ma.udec.cl/publicaciones/prepublicaciones/prepublicacion.php?id=605)
+### [A perturbed threefold saddle-point formulation yielding new mixed finite element methods for poroelasticity with reduced symmetry](https://doi.org/10.1051/m2an/2026082)
 
 A. J. Bustos, <a href='https://www.ci2ma.udec.cl/ggatica/index-english.html'>G. N. Gatica</a>, <a href='https://ruizbaier.github.io/pubs.html'>R. Ruiz-Baier</a> and <a href='https://benjamin-venegas.github.io'>B. N. Venegas</a>, <i>A perturbed threefold saddle-point formulation yielding new mixed finite element methods for poroelasticity with reduced symmetry</i>. ESAIM: M2AN, accepted for publication.
 
