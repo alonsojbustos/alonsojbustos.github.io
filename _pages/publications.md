@@ -23,7 +23,7 @@ You can also find my articles on <a href="{{ site.author.googlescholar }}">my Go
 
 ### [A posteriori error analysis of two mixed formulations for a coupled Brinkman--Forchheimer and convection-diffusion-reaction system](https://doi.org/10.1016/j.cam.2026.118277)
 
-A. J. Bustos and <a href='https://scaucao.github.io'>S. Caucao</a>, <i>A posteriori error analysis of two mixed formulations for a coupled Brinkman--Forchheimer and convection-diffusion-reaction system</i>. Journal of Computational and Applied Mathematics, accepted for publication.
+A. J. Bustos and <a href='https://scaucao.github.io'>S. Caucao</a>, <i>A posteriori error analysis of two mixed formulations for a coupled Brinkman--Forchheimer and convection-diffusion-reaction system</i>. J. Comput. Appl. Math. 494 (2027), Paper No. 118277.
 
 ### [A perturbed threefold saddle-point formulation yielding new mixed finite element methods for poroelasticity with reduced symmetry](https://doi.org/10.1051/m2an/2026082)
 
@@ -31,11 +31,11 @@ A. J. Bustos, <a href='https://www.ci2ma.udec.cl/ggatica/index-english.html'>G. 
 
 ### [Mixed-primal and fully-mixed formulations for the convection-diffusion-reaction system based upon Brinkman--Forchheimer equations](https://www.sciencedirect.com/science/article/abs/pii/S0898122126000775?via%3Dihub)
 
-A. J. Bustos, <a href='https://scaucao.github.io'>S. Caucao</a> and <a href='https://www.ci2ma.udec.cl/ggatica/index-english.html'>G. N. Gatica</a>, <i>Mixed-primal and fully-mixed formulations for the convection-diffusion-reaction system based upon Brinkman--Forchheimer equations</i>. Comput. Math. Appl., vol. 207, pp. 222-249, (2026).
+A. J. Bustos, <a href='https://scaucao.github.io'>S. Caucao</a> and <a href='https://www.ci2ma.udec.cl/ggatica/index-english.html'>G. N. Gatica</a>, <i>Mixed-primal and fully-mixed formulations for the convection-diffusion-reaction system based upon Brinkman--Forchheimer equations</i>. Comput. Math. Appl. 207 (2026), 222--249.
 
 ### [New Fully Mixed Finite Element Methods for the Coupled Convective Brinkman–Forchheimer and Nonlinear Transport Equations](https://link.springer.com/article/10.1007/s10915-025-02958-2)
 
-A. J. Bustos, <a href='https://scaucao.github.io'>S. Caucao</a>, <a href='https://www.ci2ma.udec.cl/ggatica/index-english.html'>G. N. Gatica</a> and <a href='https://benjamin-venegas.github.io'>B. N. Venegas</a>, <i>New fully mixed finite element methods for the coupled convective Brinkman--Forchheimer and nonlinear transport equations</i>. J. Sci. Comput. 104, Paper No.~64, 45~pp. (2025).
+A. J. Bustos, <a href='https://scaucao.github.io'>S. Caucao</a>, <a href='https://www.ci2ma.udec.cl/ggatica/index-english.html'>G. N. Gatica</a> and <a href='https://benjamin-venegas.github.io'>B. N. Venegas</a>, <i>New fully mixed finite element methods for the coupled convective Brinkman--Forchheimer and nonlinear transport equations</i>. J. Sci. Comput. 104 (2025), no. 2, Paper No. 64, 45 pp.
 
 ## Preprints
 
