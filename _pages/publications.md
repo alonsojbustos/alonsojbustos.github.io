@@ -27,7 +27,7 @@ A. J. Bustos and <a href='https://scaucao.github.io'>S. Caucao</a>, <i>A posteri
 
 ### [A perturbed threefold saddle-point formulation yielding new mixed finite element methods for poroelasticity with reduced symmetry](https://doi.org/10.1051/m2an/2026082)
 
-A. J. Bustos, <a href='https://www.ci2ma.udec.cl/ggatica/index-english.html'>G. N. Gatica</a>, <a href='https://ruizbaier.github.io/pubs.html'>R. Ruiz-Baier</a> and <a href='https://benjamin-venegas.github.io'>B. N. Venegas</a>, <i>A perturbed threefold saddle-point formulation yielding new mixed finite element methods for poroelasticity with reduced symmetry</i>. ESAIM: M2AN, accepted for publication.
+A. J. Bustos, <a href='https://www.ci2ma.udec.cl/ggatica/index-english.html'>G. N. Gatica</a>, <a href='https://ruizbaier.github.io/pubs.html'>R. Ruiz-Baier</a> and <a href='https://benjamin-venegas.github.io'>B. N. Venegas</a>, <i>A perturbed threefold saddle-point formulation yielding new mixed finite element methods for poroelasticity with reduced symmetry</i>. ESAIM: Math. Model. Numer. Anal. 60 (6) (2026), 2769--2801.
 
 ### [Mixed-primal and fully-mixed formulations for the convection-diffusion-reaction system based upon Brinkman--Forchheimer equations](https://www.sciencedirect.com/science/article/abs/pii/S0898122126000775?via%3Dihub)
 
